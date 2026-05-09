@@ -11,7 +11,7 @@ A complete job seeking platform featuring AI-driven resume analysis and streamli
 - Backend: Laravel 11
 - Frontend: Tailwind CSS and Blade Templates
 - AI Integration: Google Gemini AI API
-- Database: MySQL
+- Database: MariaDB
 
 ## Related Repository
 This application is integrated with the Admin Dashboard:
